@@ -103,7 +103,7 @@
     "uglify-js": "^3.0.13",
     "uglifyify": "^4.0.5",
     "utils-copy-error": "^1.0.1",
-    "xml2js": "^0.4.16"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
